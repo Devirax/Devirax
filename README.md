@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Devirax 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Devirax-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
 <!--
 **Devirax/Devirax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
